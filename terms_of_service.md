@@ -1,7 +1,7 @@
 # END USER AGREEMENT:
 ### Last Date Modified: 03/02/2025
 
-This agreement is valid once you install and use our version of windows, this is for liabilityreasons in case something you do we cant be held responsible for it!
+This agreement is valid once you install and use our version of windows, this is for liability reasons in case something you do we cant be held responsible for it!
 
 ## WARRANTY AGREEMENT:
 1). YOU HEARBY AGREE THAT USING MY CUSTOM VERSION OF WINDOWS YOU'RE AWARE THAT IT MAY OR MAY NOT VOID YOUR SYSTEM(S) MANUFACTURE WARRANTY. PS2 CLASSICS VAULT IS NOT RESPONSIBLE IF YOUR WARRANTY BECOMES INVALID BY USING THIS VERSION OF WINDOWS.
