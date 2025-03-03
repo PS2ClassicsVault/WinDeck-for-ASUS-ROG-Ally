@@ -8,3 +8,5 @@ This build does not include all drivers pre-installed such as the graphics drive
 
 ## Estimated Release Date (date can change at anytime):
 03/02/2025
+
+Please review the [Terms of Service](terms_of_service.md) before using our custom version of windows.
