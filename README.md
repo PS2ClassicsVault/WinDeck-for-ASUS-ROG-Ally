@@ -5,3 +5,6 @@ WinDeck comes the the ASUS ROG Ally with gaming enchancments and less bloatware,
 
 ## Drivers Notice:
 This build does not include all drivers pre-installed such as the graphics drivers but include necassary drivers pre-installed so you can obtain the other drivers normally via OS!
+
+## Eastimated Release Date:
+03/02/2025
