@@ -5,3 +5,4 @@
 - OS now uses TINY 11 IOT ENTERPRISE 2024 by NTDEV.
 - Fixed an issue where ads apps would still display in the start menu.
 - Improved RAM usage
+- Fixed an issue where the end user launched the AMD Software app and would get an error, this has been fixed.
