@@ -1,8 +1,6 @@
 # What's coming in the next update:
 
-## Version: v1.0.1
-- Fixed an issue with a specific update not installing
-- OS now uses TINY 11 IOT ENTERPRISE 2024 by NTDEV.
-- Fixed an issue where ads apps would still display in the start menu.
-- Improved RAM usage
-- Fixed an issue where the end user launched the AMD Software app and would get an error, this has been fixed.
+## Version: v1.0.2
+- Improve window delay from default 400ms to 100ms for better windows response
+- Improve overall system to bne more responsive with the ROG Ally hardware
+- Disabling network & power throttling
